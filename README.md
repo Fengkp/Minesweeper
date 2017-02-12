@@ -5,9 +5,9 @@ This project operates similarily to a VT100 and utilizes a Memory Mapped I/O (MM
 
 
 **Controls**
-* [ ] W: Move the cursor up
-* [ ] A: Move the cursor left
-* [ ] S: Move the cursor down
-* [ ] D: Move the cursor right
-* [ ] R: Reveal the cell 
-* [ ] F: Flag is toggled
+* [x] W: Move the cursor up
+* [x] A: Move the cursor left
+* [x] S: Move the cursor down
+* [x] D: Move the cursor right
+* [x] R: Reveal the cell 
+* [x] F: Flag is toggled
