@@ -5,7 +5,7 @@ This project operates similarily to a VT100 and utilizes a Memory Mapped I/O (MM
 
 
 **Controls**
-\.[ ] W: Move the cursor up
+*[ ] W: Move the cursor up
 [ ] A: Move the cursor left
 [ ] S: Move the cursor down
 [ ] D: Move the cursor right
