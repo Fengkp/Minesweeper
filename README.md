@@ -15,11 +15,11 @@ This project operates similarily to a VT100 and utilizes a Memory Mapped I/O (MM
 # Pictures
 
 
-**Initial Screen**
+**Initial screen**
 
 <img src='http://imgur.com/7T45bq3.jpg' title='Initial Screen' width='' alt='Picture' />
 
-**Revealing an Empty Cell**
+**Revealing an empty Cell**
 
 <img src='http://imgur.com/ptj8feI.jpg' title='Reveal Screen' width='' alt='Picture' />
 
