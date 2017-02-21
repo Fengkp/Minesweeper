@@ -12,4 +12,4 @@ This project operates similarily to a VT100 and utilizes a Memory Mapped I/O (MM
 * [x] R: Reveal the cell 
 * [x] F: Flag is toggled
 
-<img src='http://imgur.com/7T45bq3.jpg' title='Initial Screen' width=' />
+<img src='http://imgur.com/7T45bq3.jpg' title='Initial Screen' width='' alt='Picture' />
