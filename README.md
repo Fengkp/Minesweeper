@@ -14,6 +14,7 @@ This project operates similarily to a VT100 and utilizes a Memory Mapped I/O (MM
 
 # Pictures
 
+
 **Initial Screen**
 
 <img src='http://imgur.com/7T45bq3.jpg' title='Initial Screen' width='' alt='Picture' />
@@ -22,7 +23,7 @@ This project operates similarily to a VT100 and utilizes a Memory Mapped I/O (MM
 
 <img src='http://imgur.com/ptj8feI.jpg' title='Reveal Screen' width='' alt='Picture' />
 
-**Flagging a cell **
+**Flagging a cell**
 
 <img src='http://imgur.com/toew12x.jpg' title='Flag Screen' width='' alt='Picture' />
 
