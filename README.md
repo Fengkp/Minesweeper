@@ -12,19 +12,24 @@ This project operates similarily to a VT100 and utilizes a Memory Mapped I/O (MM
 * [x] R: Reveal the cell 
 * [x] F: Flag is toggled
 
-**Pictures**
+# Pictures
 
-Initial Screen
+**Initial Screen**
+
 <img src='http://imgur.com/7T45bq3.jpg' title='Initial Screen' width='' alt='Picture' />
 
-Revealing an Empty Cell
+**Revealing an Empty Cell**
+
 <img src='http://imgur.com/ptj8feI.jpg' title='Reveal Screen' width='' alt='Picture' />
 
-Flagging a cell  
+**Flagging a cell **
+
 <img src='http://imgur.com/toew12x.jpg' title='Flag Screen' width='' alt='Picture' />
 
-All cells revealed after user loses the game 
+**All cells revealed after user loses the game**
+
 <img src='http://imgur.com/A49w1Oj.jpg' title='Losing Screen' width='' alt='Picture'/>
 
-User wins the game
+**User wins the game**
+
 <img src='http://imgur.com/smDJVD9.jpg' title='Winning Screen' width='' alt='Picture'/>
