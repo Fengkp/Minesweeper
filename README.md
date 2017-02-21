@@ -11,3 +11,5 @@ This project operates similarily to a VT100 and utilizes a Memory Mapped I/O (MM
 * [x] D: Move the cursor right
 * [x] R: Reveal the cell 
 * [x] F: Flag is toggled
+
+<img src='http://imgur.com/7T45bq3.jpg' title='Initial Screen' width=' />
